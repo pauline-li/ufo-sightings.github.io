@@ -1,0 +1,77 @@
+/*
+Javascript Challenge css
+
+   float: left;
+    padding: 9.5px 15px;
+    font-size: 19px;
+    line-height: 21px;
+    height: 20;
+*/
+
+.navbar-brand {
+ 
+    height: auto;
+   
+}
+
+.navbar-default .navbar-brand {
+    color:#C5C6C7;
+}
+
+
+.navbar-brand {
+    margin-left: 65px;
+   
+}
+
+.nav-ufo {
+    height: 80px;
+     
+}
+
+.btn-default {
+    color: #C5C6C7;
+    /* background-color:rgb(177, 169, 125); */
+    background-color: #0B0C10;
+    margin-left: 15px;
+ }
+
+ footer{
+    padding-top: 10px;
+    text-align: center; 
+    position: fixed; 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top-style: solid;
+    background-color:#1F2833;
+    border-top-width: 5px; 
+    border-top-color: #C5C6C7;
+    color: white; 
+    min-height: 60px;
+    font-family: serif;
+    font-size: 14px;
+ }
+
+ p {
+   
+    font-size: large;
+}
+ 
+h1, .h1 {
+    font-size: 35px;
+    color: lightyellow;
+}
+#ufo-table {
+    font-size: medium;
+} 
+/* .margin-top-50{
+
+    margin: -50px;
+  
+
+} */
+.container-fluid{
+    background-color:#45A29E;
+
+ }
